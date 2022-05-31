@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emir</h1>
-<h3 align="center">I am an Jr. iOS Developer</h3>
+<h3 align="center">I am a Jr. iOS Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alkalemir&label=Profile%20views&color=0e75b6&style=flat" alt="alkalemir" /> </p>
 
