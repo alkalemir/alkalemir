@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alkalemir&label=Profile%20views&color=0e75b6&style=flat" alt="alkalemir" /> </p>
 
-- 🌱 I’m currently learning **UIKit**
+- 🌱 I’m currently learning **iOS Development**
 
 - 📝 I regularly write articles on [https://medium.com/@alkalemir](https://medium.com/@alkalemir)
 
-- 📫 How to reach me **alkalemir@gmail.com**
+- 📫 How to reach me **alkalemirdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
